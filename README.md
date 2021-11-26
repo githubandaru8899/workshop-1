@@ -10,4 +10,4 @@
 ******nani******
 <a href="ww.google.com">Click Here</a>
 [Google]("www.google.com")
-![mh.jpeg](mh.jpeg.jpeg)
+![mh](mh.jpeg)
