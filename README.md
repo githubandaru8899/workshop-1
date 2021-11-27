@@ -54,8 +54,17 @@
    * Surname
 3. Roll Number
 4. Branch
-   1. cse
-   2. ece
-   3. eee
-   4. civil 
+   1. CSE
+   2. ECE
+   3. EEE
+   4. Civil
+   5. Mech 
 5. College
+
+```python
+   def hello()
+      a=2
+      b=3
+      c=4
+      print(a+b+c)
+```
