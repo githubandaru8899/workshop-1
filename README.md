@@ -27,3 +27,35 @@
 |----|----|------|-----------|
 1|Viswa|CSE|H9|
 2|Narasimha|CSE|D5|
+
+## ordered list
+
+1. Name
+2. Roll Number
+3. Branch
+4. College
+
+## unordered list
+- Name
+- Roll Number
+- Branch
+- College
+
+## unordered list
+* Name
+* Roll Number
+* Branch
+* College
+
+## nested list
+1. Name
+   * First Name
+   * Last Name
+   * Surname
+3. Roll Number
+4. Branch
+   1. cse
+   2. ece
+   3. eee
+   4. civil 
+5. College
